@@ -12,7 +12,7 @@ Results of our analysis conclude the following:
 * **Temperature averages for the month of December are around 71ºF**
 * **Minimum temperatures range from 64ºF in June to 56ºF in December**
 
-Using the provided weather data from the collection stations we were able to extract several key aspects including average temperatures, minimum temperatures, and maximum temperatures.  The lowest temperatures were 64ºF in June and 56ºF in December.  The highest temperatures were 85ºF in June and 83ºF in December with the average temperature being 75ºF in June and 71ºF in December.  Furthermore, we can conclude from the temperature's standard deviation of June (3.25) and December (3.75) that there is a very low variance of 0.5 within the averages.
+Using the provided weather data from the collection stations we were able to extract several key aspects including average temperatures, minimum temperatures, and maximum temperatures.  The lowest temperatures were 64ºF in June and 56ºF in December.  The highest temperatures were 85ºF in June and 83ºF in December with the average temperature being 75ºF in June and 71ºF in December.  We can also see fromm the differences in averages of the temperatures from June and December that there is only an average difference of 3.9 degrees.  This indicates that the weather seems to be fairly consistent throughout the year. 
 
 ### Fig 1.  June Data Statistics
 ![june_temp_stats](https://github.com/Jbailey8316/surfs_up/blob/main/Images/june_temp_stats.PNG)
